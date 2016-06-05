@@ -1,0 +1,8 @@
+.classpath
+.project
+.pom.xml
+src/main/java
+src/main/webapp/css
+src/main/webapp/demo-only
+src/main/webapp/WEB-INF
+src/main/webapp/index.html

@@ -244,3 +244,5 @@ ImageUploader.prototype.setConfig = function(customConfig) {
         document.body.appendChild(this.config.workspace);
     }
 };
+
+module.exports = ImageUploader;

@@ -1,0 +1,18 @@
+{
+  "name": "html5-image-uploader",
+  "version": "1.0.0",
+  "description": "The primary goal of this project is ImageUploader.js, a javascript module which can perform client-side resizing of images and uploads to a remote server using only HTML5 features (e.g. the Canvas and FileReader APIs).",
+  "main": "src/main/webapp/js/ImageUploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5",
+    "upload",
+    "canvas",
+    "image",
+    "resize"
+  ],
+  "author": "Ross Turner",
+  "license": "Apache-2.0"
+}
